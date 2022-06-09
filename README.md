@@ -1,7 +1,5 @@
-<h1 align="centro">Hi 👋, sou Luis Gustavo de Miranda</h1>
-<p align="esquerda"> <img src="https://komarev.com/ghpvc/?username=luisgustavodemiranda&label=Profile%20views&color=0e75b6&style=flat" alt="luisgustavodemir "> </p>
-
-- 📫 Como me alcançar **luisgustavodemiranda@gmail.com**
+<h1 align="center">Hi 👋, I'm Luis Gustavo de Miranda</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisgustavodemiranda&label=Profile%20views&color=0e75b6&style=flat" alt="luisgustavodemiranda"> </p>
 
 <h3 align="left">Connect comigo:</h3>
 <p align="left">
