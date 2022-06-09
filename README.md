@@ -1,4 +1,4 @@
-## Olá, me chamo SeuNomeAqui ! 
+## Olá, me chamo Luis Gustavo de Miranda ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 
@@ -12,7 +12,7 @@
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="<i class="devicon-sqlite-plain-wordmark colored"></i>/>
+<i class="devicon-sqlite-plain-wordmark colored" width="40" height="40"/i>
           
 
 
