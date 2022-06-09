@@ -12,7 +12,8 @@
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<i class="devicon-sqlite-plain-wordmark colored" width="40" height="40"/i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
+          
           
 
 
